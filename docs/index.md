@@ -5,7 +5,7 @@ sidebar_label: Getting Started
 slug: /
 ---
 
-**Howdy**! Welcome to Conviso's Technical Documentation 🤖
+**Howdy**! Welcome to Conviso's Technical Documentation 🤖🗎
 
 Here you can find all the details related to our tools and integrations for [**Conviso Platform**](https://bit.ly/3JyRdl8). 
 
